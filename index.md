@@ -23,32 +23,32 @@ Technologies we plan on using for "Manoa Music":
 
 The landing page is the first page presented to the user. Helps with vistor to understand the features of the site. 
 
-![Landing](/images/Manoa-Music-Mockup.png)
+![Landing](/images/ManoaMusicMockup.png)
 
 ### Index pages (Profiles)
 
 The Profiles page will show users other students with similar interests, tastes, talents, and capabilities. With a filter option for users to filter other students with taste, ability, instrument, goals, etc.
 
-![Profile](/images/Manoa-Music-Mockup (2).png)
+![Profile](/images/ManoaMusicMockup2.png)
 
 ### Sign in and sign up
 
 The sign in and sign up page will allow users to sign in using their UH accounts which must have been previously registered within the system. 
 
-![SignIn](/images/Manoa-Music-Mockup (1).png)
+![SignIn](/images/ManoaMusicMockup1.png)
 
 ### User Home page 
 
 After logging on from the sign page it will direct you to the said home page either user or admin which in this case the user home page will allow you to create a profile for other students to see.
 
-![UserHome](/images/Manoa-Music-Mockup (3).png)
+![UserHome](/images/ManoaMusicMockup3.png)
 
 ### Admin Home page
 
 After logging on from the sign page it will direct you to the said home page either user or admin which in this case the admin home page will allow you to manage all profiles with adding and deleting capabilities with overall categories.
 
-![AdminHome](/images/Manoa-Music-Mockup (4).png)
-![AdminProfileEdit](/images/Manoa-Music-Mockup (5).png)
+![AdminHome](/images/ManoaMusicMockup4.png)
+![AdminProfileEdit](/images/ManoaMusicMockup5.png)
 
 ## Development History
 
