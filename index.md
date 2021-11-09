@@ -1,13 +1,14 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Deployment](#deployment)
-* [User Guide](#user-guide)
+// * [User Guide](#user-guide)
 * [Development History](#development-history)
 * [Example enhancements](#example-enhancements)
 * [Team](#team)
 
 ## Overview
+
+Manoa Music plans to tackle a problem for UH students with muscial talents. As it can be difficult for students to find others with similar musical tastes, talents, and capabilities. 
 
 Technologies we plan on using for "Manoa Music":
 
@@ -16,7 +17,7 @@ Technologies we plan on using for "Manoa Music":
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
-## User Guide
+// ## User Guide
 
 ### Landing Page
 
