@@ -52,6 +52,6 @@ After logging on from the sign page it will direct you to the said home page eit
 * Supporting the organizations of jam sessions, with a calendar 
 
 ## Team
-* [Joshua Ishimaru] (https://jishimaru2.github.io/).
-* [Coltin Kaupiko] (https://coltin-kai.github.io/).
-* [Anat Amar] (https://anatamar1.github.io/).
+* [Joshua Ishimaru](https://jishimaru2.github.io/).
+* [Coltin Kaupiko](https://coltin-kai.github.io/).
+* [Anat Amar](https://anatamar1.github.io/).
