@@ -1,7 +1,7 @@
 ## Table of contents
 
 * [Overview](#overview)
-// * [User Guide](#user-guide)
+# * [User Guide](#user-guide)
 * [Development History](#development-history)
 * [Example enhancements](#example-enhancements)
 * [Team](#team)
