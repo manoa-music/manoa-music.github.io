@@ -1,7 +1,7 @@
 ## Table of contents
 
 * [Overview](#overview)
-# * [User Guide](#user-guide)
+* [User Guide](#user-guide)
 * [Development History](#development-history)
 * [Example enhancements](#example-enhancements)
 * [Team](#team)
@@ -17,21 +17,27 @@ Technologies we plan on using for "Manoa Music":
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
-// ## User Guide
+## User Guide
 
 ### Landing Page
 
-### Index pages (Profiles, Interests)
+The landing page is the first page presented to the user. Helps with vistor to understand the features of the site. 
+
+### Index pages (Profiles)
+
+The Profiles page will show users other students with similar interests, tastes, talents, and capabilities. With a filter option for users to filter other students with taste, ability, instrument, goals, etc.
 
 ### Sign in and sign up
 
-### User Home page (Filter Option)
+The sign in and sign up page will allow users to sign in using their UH accounts which must have been previously registered within the system.  
+
+### User Home page 
+
+After logging on from the sign page it will direct you to the said home page either user or admin which in this case the user home page will allow you to create a profile for other students to see.
 
 ### Admin Home page
 
-### Add Profile page
-
-### Browse Profiles Page
+After logging on from the sign page it will direct you to the said home page either user or admin which in this case the admin home page will allow you to manage all profiles with adding and deleting capabilities with overall categories.
 
 ## Development History
 
