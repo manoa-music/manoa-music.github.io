@@ -2,6 +2,7 @@
 
 * [Overview](#overview)
 * [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
 * [Development History](#development-history)
 * [Example enhancements](#example-enhancements)
 * [Deployment](#deployment)
@@ -50,6 +51,22 @@ After logging on from the sign page it will direct you to the said home page eit
 
 ![AdminHome](/images/AdminHomeM1.PNG)
 ![AdminProfileEdit](/images/ManoaMusicMockup7.png)
+
+## Community Feedback
+
+## Developer Guide
+
+* First, your need to install [Meteor](https://www.meteor.com/developers/install).
+* Next, visit our github application page clicking on "Use this template.
+* Third, cd into the app/ directory: 
+```
+$ meteor npm install
+```
+* Fourth:
+```
+$ meteor npm run start
+```
+* Following all these steps the application should appear at [http://localhost:3000]( http://localhost:3000).
 
 ## Development History
 
