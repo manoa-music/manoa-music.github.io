@@ -61,7 +61,7 @@ After logging on from the sign page it will direct you to the said home page eit
 ## Example Enhancements 
 
 ### Deployment
-*[Manoa Music](http://178.128.159.122/#/).
+* [Manoa Music](http://178.128.159.122/#/).
 
 * Supporting the organizations of jam sessions, with a calendar 
 ## Team
