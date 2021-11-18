@@ -54,8 +54,10 @@ After logging on from the sign page it will direct you to the said home page eit
 ## Development History
 
 ### Final Project: Milestone 1
+* [Milestone 1](https://github.com/manoa-music/manoa-music/projects/1).
 
 ### Final Project: Milestone 2
+* 
 
 ### Final Project Milestone 3
 
