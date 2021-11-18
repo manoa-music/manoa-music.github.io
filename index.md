@@ -26,9 +26,9 @@ The landing page is the first page presented to the user. Helps with vistor to u
 
 ![Landing](/images/landingmockup1.png)
 
-### Index pages (Profiles)
+### Profile Page
 
-The Profiles page will show users other students with similar interests, tastes, talents, and capabilities. With a filter option for users to filter other students with taste, ability, instrument, goals, etc.
+The Profile page will show users other students the user's name, profile photo, description, and links. Followed by this, their goals, instruments they use, capabilities, and genre of music they are interested in.
 
 ![Profile](/images/profilesmockup1.png)
 
@@ -40,13 +40,13 @@ The sign in and sign up page will allow users to sign in using their UH accounts
 
 ### User Home page 
 
-After logging on from the sign page it will direct you to the said home page either user or admin which in this case the user home page will allow you to create a profile for other students to see.
+The User Home page shows a list of profiles that a user can search through. They can either search by name by using the search bar or user the filter options to limit by instruments, goals, capabilities, and interests/genres of music.
 
 ![UserHome](/images/UserHomeM1.PNG)
 
 ### Admin Home page
 
-After logging on from the sign page it will direct you to the said home page either user or admin which in this case the admin home page will allow you to manage all profiles with adding and deleting capabilities with overall categories.
+After logging on from the sign page it will direct you to the said home page either user or admin which in this case the admin home page will allow you to manage all profiles with adding and deleting capabilities with overall categories. Has similiar features to User Home page.
 
 ![AdminHome](/images/AdminHomeM1.PNG)
 ![AdminProfileEdit](/images/ManoaMusicMockup7.png)
