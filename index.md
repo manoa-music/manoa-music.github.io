@@ -42,7 +42,7 @@ The sign in and sign up page will allow users to sign in using their UH accounts
 
 After logging on from the sign page it will direct you to the said home page either user or admin which in this case the user home page will allow you to create a profile for other students to see.
 
-![UserHome](/images/userhomepagemockup1.png)
+![UserHome](/images/UserHome1M1.png)
 
 ### Admin Home page
 
