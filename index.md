@@ -42,13 +42,13 @@ The sign in and sign up page will allow users to sign in using their UH accounts
 
 After logging on from the sign page it will direct you to the said home page either user or admin which in this case the user home page will allow you to create a profile for other students to see.
 
-![UserHome](/images/UserHomeM1.png)
+![UserHome](/images/UserHomeM1.PNG)
 
 ### Admin Home page
 
 After logging on from the sign page it will direct you to the said home page either user or admin which in this case the admin home page will allow you to manage all profiles with adding and deleting capabilities with overall categories.
 
-![AdminHome](/images/AdminHomeM1.png)
+![AdminHome](/images/AdminHomeM1.PNG)
 ![AdminProfileEdit](/images/ManoaMusicMockup7.png)
 
 ## Development History
