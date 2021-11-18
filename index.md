@@ -40,7 +40,7 @@ The sign in and sign up page will allow users to sign in using their UH accounts
 
 ### User Home page 
 
-The User Home page shows a list of profiles that a user can search through. They can either search by name by using the search bar or user the filter options to limit by instruments, goals, capabilities, and interests/genres of music.
+The User Home page shows a list of profiles that a user can search through. They can either search by name by using the search bar or use the filter options to limit profiles shown by instruments, goals, capabilities, and interests/genres of music.
 
 ![UserHome](/images/UserHomeM1.PNG)
 
