@@ -12,6 +12,8 @@
 
 Manoa Music plans to tackle a problem for UH students with muscial talents. As it can be difficult for students to find others with similar musical tastes, talents, and capabilities. 
 
+* [GitHub Organization](https://github.com/manoa-music) of Manoa-Music containing all its repositories.
+
 Technologies we plan on using for "Manoa Music":
 
 * [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
