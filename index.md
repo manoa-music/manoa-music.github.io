@@ -47,7 +47,7 @@ After logging on from the sign page it will direct you to the said home page eit
 
 After logging on from the sign page it will direct you to the said home page either user or admin which in this case the admin home page will allow you to manage all profiles with adding and deleting capabilities with overall categories.
 
-![AdminHome](/images/ManoaMusicMockup4.png)
+![AdminHome](/images/ManoaMusicMockup6.png)
 ![AdminProfileEdit](/images/ManoaMusicMockup5.png)
 
 ## Development History
