@@ -4,6 +4,7 @@
 * [User Guide](#user-guide)
 * [Development History](#development-history)
 * [Example enhancements](#example-enhancements)
+* [Deployment](#deployment)
 * [Team](#team)
 
 ## Overview
@@ -59,12 +60,12 @@ After logging on from the sign page it will direct you to the said home page eit
 ### Final Project Milestone 3
 
 ## Example Enhancements 
+* Supporting the organizations of jam sessions, with a calendar 
 
 ### Deployment
 * [Manoa Music](http://178.128.159.122/#/).
 
-* Supporting the organizations of jam sessions, with a calendar 
-## Team
+### Team
 * [Joshua Ishimaru](https://jishimaru2.github.io/).
 * [Coltin Kaupiko](https://coltin-kai.github.io/).
 * [Anat Amar](https://anatamar1.github.io/).
