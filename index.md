@@ -27,7 +27,7 @@ Technologies we plan on using for "Manoa Music":
 
 The landing page is the first page presented to the user. Helps with vistor to understand the features of the site. 
 
-![Landing](/images/landingmockup1.png)
+![Landing](/images/LandingM2.PNG)
 
 ### Profile Page
 
@@ -41,11 +41,17 @@ The sign in and sign up page will allow users to sign in using their UH accounts
 
 ![SignIn](/images/signinmockup1.png)
 
+### Create Profile
+
+After Signing up, users are redirected to this page, where they can create and customize their own profiles. Not only will they be able to add their name and description, but they can also add tags associated with them, and even links.
+
+![Create](/images/CreateProfileM2.PNG)
+
 ### User Home page 
 
 The User Home page shows a list of profiles that a user can search through. They can either search by name by using the search bar or use the filter options to limit profiles shown by instruments, goals, capabilities, and interests/genres of music.
 
-![UserHome](/images/UserHomeM1.PNG)
+![UserHome](/images/UserHomeM2.PNG)
 
 ### Admin Home page
 
@@ -84,7 +90,7 @@ $ meteor npm run start
 * Supporting the organizations of jam sessions, with a calendar 
 
 ### Deployment
-* [Manoa Music](http://178.128.159.122/#/).
+* [Manoa Music](http://165.232.137.11/#/).
 
 ### Team
 * [Joshua Ishimaru](https://jishimaru2.github.io/).
