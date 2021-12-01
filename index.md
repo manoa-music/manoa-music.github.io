@@ -58,7 +58,12 @@ The User Home page shows a list of profiles that a user can search through. They
 After logging on from the sign page it will direct you to the said home page either user or admin which in this case the admin home page will allow you to manage all profiles with adding and deleting capabilities with overall categories. Has similiar features to User Home page.
 
 ![AdminHome](/images/AdminHomeM1.PNG)
-![AdminProfileEdit](/images/ManoaMusicMockup7.png)
+![AdminProfileEdit](/images/AdminHomeM2.png)
+
+## Admin Edit Page
+
+The Admin Edit Page will allow you to edit a user's profile including first name, last name, description, profile picture, goals, links(Soundcloud, spotify, youtube), instruments, capabilities, and genre of music. 
+![AdminEdit](/images/AdminEditM2.png)
 
 ## Community Feedback
 
@@ -85,6 +90,7 @@ $ meteor npm run start
 * [Milestone 2](https://github.com/manoa-music/manoa-music/projects/2).
 
 ### Final Project Milestone 3
+* [Milestone 3](https://github.com/manoa-music/manoa-music/projects/3).
 
 ## Example Enhancements 
 * Supporting the organizations of jam sessions, with a calendar 
