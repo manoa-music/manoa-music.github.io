@@ -27,7 +27,7 @@ Technologies we plan on using for "Manoa Music":
 
 The landing page is the first page presented to the user. Helps with vistor to understand the features of the site. 
 
-![Landing](/images/LandingM2.PNG)
+![Landing](/images/LandingM3.PNG)
 
 ### Profile Page
 
