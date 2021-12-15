@@ -53,6 +53,18 @@ The User Home page shows a list of profiles that a user can search through. They
 
 ![UserHome](/images/UserHomeM2.PNG)
 
+
+### Create Jam Session
+The User can create and provid information on thier next Jam Session.
+
+![CreateJamSession](/images/createJamSession.PNG)
+
+
+### Jam Sessions
+Provide information on scheduled jam sessions, including location, time, musical type, desired capabilities.
+
+![JamSessions](/images/listJam.PNG)
+
 ### Admin Home page
 
 After logging on from the sign page it will direct you to the said home page either user or admin which in this case the admin home page will allow you to manage all profiles with adding and deleting capabilities with overall categories. Has similiar features to User Home page.
