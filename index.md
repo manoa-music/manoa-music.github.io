@@ -69,7 +69,7 @@ Provide information on scheduled jam sessions, including location, time, musical
 
 After logging on from the sign page it will direct you to the said home page either user or admin which in this case the admin home page will allow you to manage all profiles with adding and deleting capabilities with overall categories. Has similiar features to User Home page.
 
-![AdminHome](/images/AdminHomeM1.PNG)
+![AdminHome](/images/HomeAdmin.png)
 ![AdminProfileEdit](/images/listProfieAdmin.PNG)
 
 ### Add Tags Admin
