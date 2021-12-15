@@ -57,7 +57,7 @@ The User Home page shows a list of profiles that a user can search through. They
 ### Create Jam Session
 The User can create and provid information on thier next Jam Session.
 
-![CreateJamSession](/images/createJamSession.PNG)
+![CreateJamSession](/images/createJam session.PNG)
 
 
 ### Jam Sessions
