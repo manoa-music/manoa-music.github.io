@@ -57,13 +57,13 @@ The User Home page shows a list of profiles that a user can search through. They
 ### Create Jam Session
 The User can create and provid information on thier next Jam Session.
 
-![CreateJamSession](/images/createJamSession.PNG)
+![CreateJamSession](/images/createJamSession.png)
 
 
 ### Jam Sessions
 Provide information on scheduled jam sessions, including location, time, musical type, desired capabilities.
 
-![JamSessions](/images/ListJamSessions.PNG)
+![JamSessions](/images/ListJamSessions.png)
 
 ### Admin Home page
 
