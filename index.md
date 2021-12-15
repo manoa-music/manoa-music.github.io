@@ -51,7 +51,7 @@ After Signing up, users are redirected to this page, where they can create and c
 
 The User Home page shows a list of profiles that a user can search through. They can either search by name by using the search bar or use the filter options to limit profiles shown by instruments, goals, capabilities, and interests/genres of music.
 
-![UserHome](/images/userHome.png.PNG)
+![UserHome](/images/userHome.png)
 ![UserHomeListProfile](/images/listTheProfile.png)
 
 ### Create Jam Session
