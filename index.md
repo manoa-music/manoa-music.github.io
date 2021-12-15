@@ -31,9 +31,9 @@ The landing page is the first page presented to the user. Helps with vistor to u
 
 ### Profile Page
 
-The Profile page will show users other students the user's name, profile photo, description, and links. Followed by this, their goals, instruments they use, capabilities, and genre of music they are interested in. Still a template mockup.
+The Profile page will show users other students the user's name, profile photo, description, and links. Followed by this, their goals, instruments they use, capabilities, and genre of music they are interested in. a text box to leave a message
 
-![Profile](/images/profilesmockup1.png)
+![Profile](/images/profilePageList.png)
 
 ### Sign in and sign up
 
