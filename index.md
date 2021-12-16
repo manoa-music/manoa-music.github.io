@@ -124,7 +124,7 @@ $ meteor npm run start
 * Supporting leaving a message on User profiles.
 
 ### Deployment
-* [Manoa Music](http://178.128.159.122/#/).
+* [Manoa Music](http://165.232.137.11/#/).
 
 ### Team
 * [Joshua Ishimaru](https://jishimaru2.github.io/).
