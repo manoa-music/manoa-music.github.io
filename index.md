@@ -120,7 +120,8 @@ $ meteor npm run start
 * [Milestone 3](https://github.com/manoa-music/manoa-music/projects/3).
 
 ## Example Enhancements 
-* Supporting the organizations of jam sessions, with a calendar 
+* Supporting Organizations of Jam Sessions so that students can meet together to play and make music.
+* Supporting leaving a message on User profiles.
 
 ### Deployment
 * [Manoa Music](http://178.128.159.122/#/).
