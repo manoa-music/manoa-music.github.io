@@ -84,6 +84,10 @@ The Admin Edit Page will allow you to edit a user's profile including first name
 
 ## Community Feedback
 
+* Jacob Ishikawa (UH Student): “I found it very clear on what I had to do when I got on the Manoa Music home page. I liked how we are able to create our own Jam sessions where other UH students can come and participate.”
+
+* Finn Gardener (UH Student): “I am very excited for what's to come from Manoa Music. Although the design of the website and logo could be better in my opinion. I like the functionality it provides to the UH musicians. My favorite feature was how spotify, soundcloud, and youtube were incorporated so I can check out music from my fellow classmates.” 
+
 ## Developer Guide
 
 * First, your need to install [Meteor](https://www.meteor.com/developers/install).
