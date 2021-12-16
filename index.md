@@ -92,7 +92,7 @@ The Admin Edit Page will allow you to edit a user's profile including first name
 
 * John smith (UH studant): "Looking at the Manoa music site, I reconized exctly what it is about, im not a musican but i think it is a great site for everyone that is intested in music and want to watch musician performent"
 
-*  Aiden Myers (UH studant): " I really like the style of Manoa music Site, the colors are the same as the uh Manoa Website so you know exctly that you in the right place. I think it is a great idea to connects between musicians. Overall the site functins correctly. 
+*  Aiden Myers (UH studant): " I really like the style of Manoa music Site, the colors are the same as the uh Manoa Website so you know exctly that you in the right place. I think it is a great idea to connects between musicians. Overall the site functins correctly" 
 
 ## Developer Guide
 
