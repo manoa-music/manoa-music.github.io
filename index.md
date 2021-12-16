@@ -88,11 +88,11 @@ The Admin Edit Page will allow you to edit a user's profile including first name
 
 * Finn Gardener (UH Student): “I am very excited for what's to come from Manoa Music. Although the design of the website and logo could be better in my opinion. I like the functionality it provides to the UH musicians. My favorite feature was how spotify, soundcloud, and youtube were incorporated so I can check out music from my fellow classmates.” 
 
-* Michael Burns (UH student): "As a musicain, I always wanted to meet other musician, and Manoa Music is the perfect site to meet other studants that play an instument or sing. The site is a friendly User, easy to find other musiciam that play the same insturment as me" 
+* Michael Burns (UH student): "As a musician, I always wanted to meet other musicians, and Manoa Music is the perfect site to meet other students that play an instruments or sing. The site is a user friendly, and easy to find other musician that play the same instruments as me." 
 
-* John smith (UH studant): "Looking at the Manoa music site, I reconized exctly what it is about, im not a musican but i think it is a great site for everyone that is intested in music and want to watch musician performent"
+* John smith (UH student): "Looking at the Manoa music site, I recognized exactly what its about, im not a musician but I think it is a great site for everyone that is interested in playing music and want to watch musician perform."
 
-*  Aiden Myers (UH studant): " I really like the style of Manoa music Site, the colors are the same as the uh Manoa Website so you know exctly that you in the right place. I think it is a great idea to connects between musicians. Overall the site functins correctly" 
+*  Aiden Myers (UH student): " I really like the style of manoa music site, the colors are the same as the uh Manoa Website so you know exactly that you are in the right place. I think it is a great idea for UH students to make connections with other musicians. Overall the site functions correctly" 
 
 ## Developer Guide
 
